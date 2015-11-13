@@ -7,8 +7,9 @@
 * 부득이하게 단어 조합이 될경우에도 소문자만 사용
  * ex) com.domain.casestudy.boardtype
 * [도메인반대열겨/추가구분자]로 패키지네임을 구성한다.
-| Domain Name | Pakage Name	|  
-|:-:|:---------:|
-|stcompany.com/eng|com.stcompany.eng|
+
+   | Domain Name | Pakage Name	|  
+   |:-:|:---------:|
+   |stcompany.com/eng|com.stcompany.eng|
 
 	
