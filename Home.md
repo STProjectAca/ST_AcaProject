@@ -21,7 +21,7 @@
 * **Base Lib**
  * [JQuery 2.1.4](http://jquery.com/download/)
  * jqGrid.js
-* **Base Lib**
+* **Core Lib**
  * [Angular.js 1.4.7](https://www.angularjs.org/)
 
 
