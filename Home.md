@@ -25,8 +25,8 @@
 
 | 팀 | 직급 | email	|  
 |:-:|:---------:| ----- |  ----- | ----- |:--:| ----- | ----- |
-|솔루션|실장|문상욱|"문상욱" <sangwook@st-company.net>|	
-|솔루션|팀장|김성재|"김성재" <kimsj23@st-company.net>|
-|솔루션|CD|오무진|"김성재" <mjoh@st-company.net>|
+|솔루션|실장|문상욱|sangwook@st-company.net|	
+|솔루션|팀장|김성재|kimsj23@st-company.net|
+|솔루션|CD|오무진|mjoh@st-company.net|
 
 
